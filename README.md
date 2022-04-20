@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @toshiki-app.
+- 👋 Hi, I’m @toshiki-app
 - 👀 I’m interested in Apple products.
 - 🌱 I’m currently learning subscription.
 - 💞️ I’m looking to collaborate on developing iOS Apps.
